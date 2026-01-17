@@ -3,7 +3,7 @@
   id: STMobMutantBearT1
   name: young bear
   suffix: ST, T1
-  description: Bears are a normal sight in the wilds, but it's hard to say what effect radiation has had on the ones living in the Zone.
+  description: Bears are a normal sight in the wilds, but it's hard to say what effect radiation has had on the ones living in the Zone. This is test text.
   components:
     - type: HTN
       rootTask:
